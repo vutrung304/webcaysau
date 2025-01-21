@@ -1,44 +1,4 @@
-/*--------------------------------------------------------------------------------
 
-	# Minimis Template 1.0 - Mar 1, 2018
-	# ------------------------------------------------------------------------
-	# Designed & coded by Awe7
-	# Websites:  http://www.awe7.com -  Email: info@awe7.com
-
-----------------------------------------------------------------------------------
-
-	1. base
-	2. button
-	3. form-item
-	4. button
-	5. about
-	6. contact
-	7. form_item
-	8. fullscreenmenu
-	9. grid-css
-	10. hoverbox
-	11. page_title
-	12. post_detail
-	13. post
-	14. progress
-	15. socialicon
-	16. title
-	17. typing
-	18. work_detail
-	19. work
-	20. footer
-	21. header-01
-	22. Layout
-	23. Grid Boostrap 
-	24. Font size
-	25. Margin Padding
-	26. Swiper
-	27. Swiper
-
---------------------------------------------------------------------------------*/
-
-/* 1. base
---------------------------------------------------------------------------------*/
 
 a[disabled], input[disabled], button[disabled], textarea[disabled] {
     cursor: not-allowed !important;
